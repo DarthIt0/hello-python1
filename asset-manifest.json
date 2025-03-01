@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hello-python1/static/css/main.f855e6bc.css",
+    "main.js": "/hello-python1/static/js/main.25c5da6f.js",
+    "static/js/453.5c7d0b33.chunk.js": "/hello-python1/static/js/453.5c7d0b33.chunk.js",
+    "index.html": "/hello-python1/index.html",
+    "main.f855e6bc.css.map": "/hello-python1/static/css/main.f855e6bc.css.map",
+    "main.25c5da6f.js.map": "/hello-python1/static/js/main.25c5da6f.js.map",
+    "453.5c7d0b33.chunk.js.map": "/hello-python1/static/js/453.5c7d0b33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.25c5da6f.js"
+  ]
+}
